@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<eqipment>
+  <item id="A00">
+    <name>Padded </name>
+    <cost>5</cost>
+    <weight>8</weight>
+    <type>armor</type>
+    <armorClass>light</armorClass>
+  </item>
+  <item id="A01">
+    <name>Leather</name>
+    <cost>10</cost>
+    <weight>10</weight>
+    <type>armor</type>
+    <armorClass>light</armorClass>
+  </item>
+  <item id="A02">
+    <name>Studded leather</name>
+    <cost>45</cost>
+    <weight>13</weight>
+    <type>armor</type>
+    <armorClass>light</armorClass>
+  </item>
+  <item id="A03">
+    <name>Hide</name>
+    <cost>10</cost>
+    <weight>12</weight>
+    <type>armor</type>
+    <armorClass>medium</armorClass>
+  </item>
+  <item id="A04">
+    <name>Chain shirt</name>
+    <cost>50</cost>
+    <weight>20</weight>
+    <type>armor</type>
+    <armorClass>medium</armorClass>
+  </item>
+  <item id="A05">
+    <name>Scale mail</name>
+    <cost>50</cost>
+    <weight>45</weight>
+    <type>armor</type>
+    <armorClass>medium</armorClass>
+  </item>
+  <item id="A06">
+    <name>Breastplate</name>
+    <cost>400</cost>
+    <weight>20</weight>
+    <type>armor</type>
+    <armorClass>medium</armorClass>
+  </item>
+  <item id="A07">
+    <name>Half plate</name>
+    <cost>750</cost>
+    <weight>40</weight>
+    <type>armor</type>
+    <armorClass>medium</armorClass>
+  </item>
+  <item id="A08">
+    <name>Ring mail</name>
+    <cost>30</cost>
+    <weight>40</weight>
+    <type>armor</type>
+    <armorClass>heavy</armorClass>
+  </item>
+  <item id="A09">
+    <name>Chain mail</name>
+    <cost>75</cost>
+    <weight>55</weight>
+    <type>armor</type>
+    <armorClass>heavy</armorClass>
+  </item>
+  <item id="A10">
+    <name>Splint</name>
+    <cost>200</cost>
+    <weight>60</weight>
+    <type>armor</type>
+    <armorClass>heavy</armorClass>
+  </item>
+  <item id="A11">
+    <name>Plate</name>
+    <cost>1500</cost>
+    <weight>65</weight>
+    <type>armor</type>
+    <armorClass>heavy</armorClass>
+  </item>
+  <item id="A12">
+    <name>Shield</name>
+    <cost>10</cost>
+    <weight>6</weight>
+    <type>armor</type>
+    <armorClass>shield</armorClass>
+  </item>
+  <item id="W00">
+    <name>Club</name>
+    <cost>0.1</cost>
+    <weight>2</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W01">
+    <name>Dagger</name>
+    <cost>2</cost>
+    <weight>1</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W02">
+    <name>Greatclub</name>
+    <cost>0.2</cost>
+    <weight>10</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W03">
+    <name>Handaxe</name>
+    <cost>5</cost>
+    <weight>2</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W04">
+    <name>Javelin</name>
+    <cost>0.5</cost>
+    <weight>2</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W05">
+    <name>Light hammer</name>
+    <cost>2</cost>
+    <weight>2</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W06">
+    <name>Mace</name>
+    <cost>5</cost>
+    <weight>4</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W07">
+    <name>Quarterstaff</name>
+    <cost>0.2</cost>
+    <weight>4</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W08">
+    <name>Sickle</name>
+    <cost>1</cost>
+    <weight>2</weight>
+    <type>weapon</type>
+  </item>
+  <item id="W09">
+    <name>Spear</name>
+    <cost>1</cost>
+    <weight>3</weight>
+    <type>weapon</type>
+  </item>
+</eqipment>

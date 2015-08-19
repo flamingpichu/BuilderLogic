@@ -1,0 +1,5 @@
+E:\Documents\PersonalProjects\CharacterBuilderBackEnd\BuilderLogic\BuilderLogic\obj\Debug\BuilderLogic.csprojResolveAssemblyReference.cache
+E:\Documents\PersonalProjects\CharacterBuilderBackEnd\BuilderLogic\BuilderLogic\bin\Debug\BuilderLogic.dll
+E:\Documents\PersonalProjects\CharacterBuilderBackEnd\BuilderLogic\BuilderLogic\bin\Debug\BuilderLogic.pdb
+E:\Documents\PersonalProjects\CharacterBuilderBackEnd\BuilderLogic\BuilderLogic\obj\Debug\BuilderLogic.dll
+E:\Documents\PersonalProjects\CharacterBuilderBackEnd\BuilderLogic\BuilderLogic\obj\Debug\BuilderLogic.pdb
